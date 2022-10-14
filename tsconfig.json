@@ -3,5 +3,5 @@
 		"target": "ESNext",
 		"noEmit": true
 	},
-	"include": ["scr/**/*"]
+	"include": ["src/**/*"]
 }
